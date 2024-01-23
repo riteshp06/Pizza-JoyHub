@@ -1,6 +1,6 @@
 # Pizza-JoyHub
 PizzaJoyHub: Showcase of Responsive and Dynamic UI Skills  Welcome to Pizza-JoyHub, a project highlighting my expertise in UI and frontend development. 
- In today's digital landscape, a visually appealing and user-friendly website is key to engaging your audience. PizzaHub is a responsive and dynamic pizza shop website that serves as a testament to my UI design and frontend development skills.
+ In today's digital landscape, a visually appealing and user-friendly website is key to engaging your audience. PizzaHub is a responsive and dynamic pizza shop website that serves as a testament to my UI design and frontend development skills and also implemented dark mode switching for the website
 
 Key Features:
 
