@@ -5,11 +5,18 @@ PizzaJoyHub: Showcase of Responsive and Dynamic UI Skills  Welcome to Pizza-JoyH
 Key Features:
 
 Responsive Design: Crafted to provide an optimal viewing and interaction experience across a wide range of devices, showcasing my commitment to a mobile-first approach.
+
 Dynamic User Interface: The website boasts dynamic elements and smooth transitions, demonstrating my proficiency in creating interactive and engaging user interfaces.
+
 Modern UI Components: Explore a modern and visually appealing UI with carefully designed components, ensuring an aesthetically pleasing and intuitive user experience.
+
 Efficient Navigation: Experience seamless navigation, highlighting my emphasis on user-centric design and efficient information architecture.
+
 UI Animation: Delight users with subtle animations that enhance the overall user experience without sacrificing performance, showcasing my attention to detail.
+
 Frontend Technologies: Built using HTML, CSS, and JavaScript, leveraging the latest practices and libraries to create a polished and modern frontend.
+
+
 Getting Started:
 
 Clone the repository to your local machine.
